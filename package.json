@@ -1,0 +1,13 @@
+{
+    "author": "Tayga",
+    "name": "@tayga2410/node_1-mod",
+    "description": "node_1 homework",
+    "version": "2.1.0",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tayga2410/node_1.git"
+    },
+    "dependencies": {
+        "@tayga2410/node_1-mod": "^1.0.0"
+    }
+}
